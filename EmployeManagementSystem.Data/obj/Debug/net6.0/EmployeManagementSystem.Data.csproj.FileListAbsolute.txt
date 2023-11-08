@@ -1,0 +1,12 @@
+E:\Projects\EmployeeManagementSystem\EmployeManagementSystem.Data\bin\Debug\net6.0\EmployeManagementSystem.Data.deps.json
+E:\Projects\EmployeeManagementSystem\EmployeManagementSystem.Data\bin\Debug\net6.0\EmployeManagementSystem.Data.runtimeconfig.json
+E:\Projects\EmployeeManagementSystem\EmployeManagementSystem.Data\bin\Debug\net6.0\EmployeManagementSystem.Data.dll
+E:\Projects\EmployeeManagementSystem\EmployeManagementSystem.Data\bin\Debug\net6.0\EmployeManagementSystem.Data.pdb
+E:\Projects\EmployeeManagementSystem\EmployeManagementSystem.Data\obj\Debug\net6.0\EmployeManagementSystem.Data.csproj.AssemblyReference.cache
+E:\Projects\EmployeeManagementSystem\EmployeManagementSystem.Data\obj\Debug\net6.0\EmployeManagementSystem.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\EmployeeManagementSystem\EmployeManagementSystem.Data\obj\Debug\net6.0\EmployeManagementSystem.Data.csproj.CoreCompileInputs.cache
+E:\Projects\EmployeeManagementSystem\EmployeManagementSystem.Data\obj\Debug\net6.0\EmployeManagementSystem.Data.dll
+E:\Projects\EmployeeManagementSystem\EmployeManagementSystem.Data\obj\Debug\net6.0\refint\EmployeManagementSystem.Data.dll
+E:\Projects\EmployeeManagementSystem\EmployeManagementSystem.Data\obj\Debug\net6.0\EmployeManagementSystem.Data.pdb
+E:\Projects\EmployeeManagementSystem\EmployeManagementSystem.Data\obj\Debug\net6.0\EmployeManagementSystem.Data.genruntimeconfig.cache
+E:\Projects\EmployeeManagementSystem\EmployeManagementSystem.Data\obj\Debug\net6.0\ref\EmployeManagementSystem.Data.dll

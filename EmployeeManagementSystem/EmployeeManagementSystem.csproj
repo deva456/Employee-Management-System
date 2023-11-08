@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <OutputType>WinExe</OutputType>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImportWindowsDesktopTargets>true</ImportWindowsDesktopTargets>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Remove="EmployeeManagementSystem\Form1.cs" />
+    <Compile Remove="EmployeeManagementSystem\Form1.Designer.cs" />
+    <Compile Remove="EmployeeManagementSystem\Program.cs" />
+    <Compile Remove="EmployeeManagementSystem\Properties\AssemblyInfo.cs" />
+    <Compile Remove="EmployeeManagementSystem\Properties\Resources.Designer.cs" />
+    <Compile Remove="EmployeeManagementSystem\Properties\Settings.Designer.cs" />
+    <EmbeddedResource Remove="EmployeeManagementSystem\Properties\Resources.resx" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Maikebing.System.Windows.Forms.DataVisualization" Version="5.0.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.24">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\EmployeManagementSystem.Data\EmployeManagementSystem.Data.csproj" />
+  </ItemGroup>
+ 
+</Project>
